@@ -1,3 +1,11 @@
+1. A directory serves as a nesting base for folders. Directory is specifically utilized when referring to the discussion/relationship of file systems.
+2. Version Control System (VCS) serves as a memory system to see past changes made to code within previous versions of a section. In addition to tracking changes, a website designer or developer can revert to original drafts and easily collaborate or share original material.
+3. My favorite artistic mediums for painting include acrylic paint (quick drying time, easily mixable, and bold colors) and watercolor (potential for layering effect, seamless blending, and "soft" appearance); also, I enjoy editing videos and studying the film theory behind the shots and techniques of movies.
+
+
+
+
+(Original Text Prior to Location of Specific Questions on Moodle)
 I recently moved to Missoula, and I am loving the Montana winter weather!
 The cold air is so refreshing, and the snow is absolutely beautiful.
 It is like living in a snow globe!
