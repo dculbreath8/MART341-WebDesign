@@ -4,9 +4,11 @@
 
 ### Heading 3
 
-I am a paragraph, and to see me, you may have to move around the screen.
+1. The web developer is responsible for making sure that buttons and commands are synced and properly function.
 
-This is much better. :-)
+2. Full Stack developers have the knowledge to utilize both front-end and back-end development.
+
+3. "UX Design" represents "User Experience Design".
 
 [Oragami Ink Website](https://www.origamiink.com/)
 
