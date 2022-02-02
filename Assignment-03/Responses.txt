@@ -1,1 +1,5 @@
-My name is Drew. :-)
+1. Computers utilize the Domain Name System (DNS) to associate IP addresses with standard internet addresses. The DNS translates the domain name to a specific IP address, and both DNS and IP addresses are designed to scale, meaning that they can grow with the internet no matter its potential spand.
+
+2. A cookie is a file that is store on a computer and is composed of data (somewhat resembling an ID card in function) as the purpose is to remember information about the specific device or linked account when enabled to do so.
+
+3. The protocol, domain, and path are the three essential parts of a URL.
