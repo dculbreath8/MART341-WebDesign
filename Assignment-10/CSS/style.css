@@ -1,0 +1,66 @@
+body {
+  background-color: #5461ef;
+  font-family: "Lucida Handwriting";
+  text-align: center;
+}
+
+div {
+  border: 5px solid #f99bb6;
+  display: inline-block;
+}
+
+img {
+  border-radius: 50%;
+  border: 10px solid #5461ef;
+}
+
+.inspiration {
+  background-color: #51c5d9;
+  height: 1000px;
+  width: 1100px;
+  display: inline-block;
+}
+
+#title {
+  font-size: 70px;
+  background-color: #f99bb6;
+  color: #5461ef;
+  margin: auto;
+  padding: 20px;
+  display: inline-block;
+}
+
+.palette {
+  background-color:#87c088;
+  width:800px;
+}
+
+.dot {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dot.one {
+  background-color: #5461ef;
+}
+
+.dot.two {
+  background-color: #f99bb6;
+}
+
+.dot.three {
+  background-color: #51c5d9;
+}
+
+.dot.four {
+  background-color: #ffd015;
+}
+
+#square {
+  height: 100px;
+  width: 100px;
+  background-color: #f99bb6;
+  display: inline-block;
+}
