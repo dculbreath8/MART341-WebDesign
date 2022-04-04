@@ -3,3 +3,5 @@
 2. I chose my colors by mimicking the color palette within the painting. My color palette consists of a spin on the primary colors (with tinted shades of yellow and blue and pink instead of red). Then, I added a periwinkle tending blue-violet shade of the secondary color purple. These colors balance in that two are warm colors and two cool colors. The colors of yellow and purple are complementary to one another, because they are directly across each other on the color wheel, and the colors of blue, purple, and red/pink, are analogous to one another because they are no more than a third away from each other on the color wheel.
 
 3. The only challenge I really encountered this week was that of attempting to comprehend the purpose and execution correlation of certain CSS code elements. With some elements, like the "id" function being new, I just needed to intently read the website explanations and watch the video tutorial to see why this element, for example, was included, what it contributed to the webpage design, and how to properly write this in appropriate browser friendly language.
+
+![Atom_Assignment_10_Index Screenshot](./Images/Assignment-10-Screenshot.PNG)
