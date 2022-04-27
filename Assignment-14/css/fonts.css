@@ -1,0 +1,13 @@
+/* This is the file, "fonts.css." */
+@font-face {
+    font-family: 'Arima Madurai';
+    src: url('../Fonts/ArimaMadurai-ExtraBold.ttf') format('truetype');
+    font-style: cursive;
+ }
+
+ @font-face {
+   font-family: 'Quicksand';
+   src: url('../Fonts/Quicksand-VariableFont_wght.ttf') format('truetype');
+   font-style: sans-serif;
+   font-weight: 800
+}
