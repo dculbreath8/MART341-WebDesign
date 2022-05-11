@@ -1,0 +1,71 @@
+/*Styling the Supplies Page*/
+
+/*Setting up the grid container for desktop, there are 3 'autos' because this way we have 3 columns*/
+@media only screen and (min-width: 768px) {
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  max-width: 85%;
+  margin: auto;
+  column-gap: 5%;
+  row-gap: 8%;
+  margin-top: 3%;
+}
+
+h6 {
+  font-size: 15px;
+  padding: 0%;
+}
+
+
+footer {
+  margin-top: 5%;
+}
+}
+
+
+/*Setting up the grid container for mobile, there's only one 'auto' because we just want there to be one column*/
+@media only screen and (max-width: 768px) {
+  .grid-container {
+    display: grid;
+    grid-template-columns: auto;
+    max-width: 85%;
+    margin: auto;
+    min-height: 300px;
+    row-gap: 3%;
+
+  }
+
+
+  footer {
+    margin-top: 65%;
+  }
+}
+
+
+/* Setting image size so they fit their div container */
+div > img {
+  max-width: 100%;
+}
+
+
+/*Styling each of the images inside of the circles*/
+[class*="col-"] > img {
+  z-index: 1;
+  border: 10px solid #0561ff;
+  position: relative;
+  text-align: center;
+}
+
+
+/*Styling the information supplies box*/
+#about2 {
+  text-align: center;
+  margin: auto;
+  width: 40%;
+  background-color: white;
+  padding: 0%;
+  border: 10px solid #b7b7b7;
+  border-radius: 1em;
+  Font-family: Arima Madurai;
+}
