@@ -1,0 +1,138 @@
+/*This stylying page consists of elements that are present on all pages of the website*/
+
+/*Styling for the body portion of the entire website*/
+body {
+  background:
+  radial-gradient(black 15%, transparent 16%) 0 0,
+  radial-gradient(black 15%, transparent 16%) 10px 10px,
+  radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 0 1px,
+  radial-gradient(rgba(255,255,255,.1) 15%, transparent 20%) 10px 11px;
+  background-color:#282828;
+  background-size:20px 20px;
+}
+
+
+/* Menu */
+header {
+  position: fixed;
+  background-color: white;
+  width: 96.3%;
+  height: 3.7em;
+  margin: auto;
+  float: center;
+  border-radius: 1em;
+  Font-family: Quicksand;
+  text-align: right;
+  padding: 0.36em 1em;
+  box-shadow: 3px 3px 10px black;
+  z-index: 4;
+}
+
+
+/*Adding in the site name styling*/
+.site-name {
+  color: black;
+  float: left;
+  min-width: 6em;
+  padding: 0.5 3em;
+  letter-spacing: 0.2em;
+  font-weight: bold;
+  margin: 1em;
+}
+
+
+/* Set the layout of the menu */
+.menu-item {
+  display: inline-block;
+  margin: 1em .2em;
+  background-color: #b7b7b7;
+  padding: 0.36em 1em;
+  border-radius: 1em;
+  min-width: 4em;
+  text-align: center;
+  box-shadow: 3px 3px 10px black;
+}
+
+.menu-item:hover{
+  background-color: #0561ff;
+}
+
+
+/* Styling my links */
+.menu-item a {
+  color: black;
+  text-decoration:none;
+}
+.menu-item:hover, .menu-item:hover a {
+  color: white;
+}
+
+
+/* Dropdown */
+.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  margin: 0.5em 0 0 -1em;
+  color: white;
+  width: 118px;
+  background-color: #ff6c64;
+  z-index: 3;
+  border-radius: 0em 0em 1em 1em;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-content a {
+  color: white;
+}
+
+
+/*Styling the dropdown menu display*/
+.dropdown-item {
+  display: block;
+  text-align: center;
+  margin: 0;
+  padding: 0.5em 1em 0.5em 1em;
+  min-width: 4em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+  color:#0561ff;
+  background-color: #ffb274;
+}
+
+#foundation:hover{
+  border-radius: 0em 0em 1em 1em;
+}
+
+.dropdown:hover {
+  border-radius: 1em 1em 0em 0em;
+}
+
+
+/* Styling the Footer */
+footer {
+    width: 100%;
+    background-color: white;
+    height: 3em;
+    text-align: center;
+    font-family: Quicksand;
+    padding-top: 1em;
+    border-radius: 1em;
+    box-shadow: 3px 3px 10px black;
+}
+
+#footer-link {
+    color: black;
+    font-weight: bold;
+}
+
+#footer-link:hover {
+  color: #ff6c64
+}

@@ -1,0 +1,87 @@
+/*Styling for the Tutorial Page*/
+
+/*RWD Styling for the Desktop View*/
+@media only screen and (min-width: 768px) {
+
+  .video-resize {
+    width: 85%;
+    height: 15%;
+    margin: auto;
+  }
+}
+
+/*Styling for the Information Box*/
+#about4 {
+  border: 10px solid #b7b7b7;
+  float: center;
+  margin: auto;
+  background-color: white;
+  height: 10%;
+  width: 75%;
+  border-radius: 1em;
+  Font-family:Arima Madurai;
+  text-align: center;
+  padding: 1%;
+}
+
+
+/*Styling for the Tutorial Videos*/
+.video-container {
+  margin: auto;
+  height: 15%;
+  width: 80%;
+}
+
+.video-container > .video-resize {
+  max-width: 100%;
+}
+
+.video-resize {
+  position: relative;
+  overflow: hidden;
+  padding-top: 56.25%;
+  border: 10px solid #b7b7b7;
+  float: center;
+  background-color: white;;
+  border-radius: 1em;
+  Font-family:Arima Madurai;
+  text-align: center;
+}
+
+.video-responsive {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left:  0;
+  bottom: 0;
+  height: 100%;
+  width: 100%;
+}
+
+#video1:hover {
+  border: 10px solid #ff6c64;
+  background-color: #0561ff;
+}
+
+
+#video2:hover {
+  border: 10px solid #ffb274;
+  background-color: #ff6c64;
+}
+
+
+#video3:hover {
+  border: 10px solid #0561ff;
+  background-color: #ffb274;
+}
+
+
+/*Footer Link Hover Styling*/
+#footer-link3 {
+    color: black;
+    font-weight: bold;
+}
+
+#footer-link3:hover {
+  color: #ff6c64
+}
